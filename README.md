@@ -1,12 +1,14 @@
 # GitHubUsers
 This is my submission for the Circle Senior iOS Engineer take-home assignment (August 27-30, 2021).
 
-The goal of the assignment was to implement an app to search for GitHub users using the [GitHub Search API](https://docs.github.com/en/rest/reference/search). The app was successfully implemented natively in SwiftUI (iOS 15) in Xcode 13 Beta 5 **without** any third-party dependencies. The full feature list and implementation details can be found in the [Feature List](#feature-list) section below. It cannot be guaranteed that this app will work as expected on other versions of the Xcode 13 beta. Furthermore, I wanted to implement unit & UI testing for the app, and while I began, I unfortunately was not able to complete it on time for the deadline as my focus was on refining the app architecture.
-
 ## Table of Contents
-1. [Feature List](#feature-list)
-2. [Encountered XCode 13 Beta Bugs](#xcode-13-beta-5-bugs)
-3. [Remarks](#remarks)
+1. [Objective](#objective)
+2. [Feature List](#feature-list)
+3. [Encountered XCode 13 Beta Bugs](#xcode-13-beta-5-bugs)
+4. [Remarks](#remarks)
+
+## Objective
+The goal of the assignment was to implement an app to search for GitHub users using the [GitHub Search API](https://docs.github.com/en/rest/reference/search). The app was successfully implemented natively in SwiftUI (iOS 15) in Xcode 13 Beta 5 **without** any third-party dependencies. The full feature list and implementation details can be found in the [Feature List](#feature-list) section below. It cannot be guaranteed that this app will work as expected on other versions of the Xcode 13 beta. Furthermore, I wanted to implement unit & UI testing for the app, and while I began, I unfortunately was not able to complete it on time for the deadline as my focus was on refining the app architecture.
 
 ## Feature List
 My submission was completed with **all** of the base and bonus requirements.
