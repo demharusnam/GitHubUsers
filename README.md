@@ -1,5 +1,5 @@
 # GitHubUsers
-This is my submission for the Circle Senior iOS Engineer take-home assignment (August 27-30, 2021).
+This is my submission for [Circle](https://circle.so)'s Senior iOS Engineer take-home assignment.
 
 ## Table of Contents
 1. [Objective](#objective)
@@ -21,7 +21,7 @@ My submission was completed with **all** of the base and bonus requirements.
 | Pull-to-refresh                       | Native pull-to-refresh implementation above the navigation bar 																									  | Base         |
 | Search results sorting                | A navigation button will present a sheet with search parameter modifications 																						  | Bonus 		 |
 | Progress indication as redacted views | User row views are redacted while they are being fetched & loaded in. However, it is possible to miss the redacted views if your internet connection is fast enough | Bonus 		 |
-| Archiecture with reusability in mind  | MVVM architecture was used to separate the model, networking (view model), and view layers. Thus, they can be independently modularized and reused as needed        | Bonus 		 |
+| Architecture with reusability in mind | MVVM architecture was used to separate the model, networking (view model), and view layers. Thus, they can be independently modularized and reused as needed        | Bonus 		 |
 
 ## Xcode 13 Beta 5 Bugs
 These are the notable bugs I've encountered while testing the app:
@@ -35,4 +35,4 @@ These are the notable bugs I've encountered while testing the app:
 3. And of course, any unexpected beta bugs
 
 ## Remarks
-While my solution was ultimately *rejected*, I had lots of fun building the app and am proud of the work I did given the time constraints. There is always room for improvement, and as such, on to the next one.
+This app was built over the span of three days between August 27-30, 2021. While I ultimately did not get the job, I had lots of fun building the app and am proud of the work I did. There is always room for improvement, and as such, on to the next one.
